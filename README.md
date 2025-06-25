@@ -59,7 +59,7 @@ cd chatzone
 ```bash
 cd backend
 npm install
-node server.js
+node server.js or  npm run dev(own script for using nodemon)
 ```
 
 Server will start on `http://localhost:7001`.
