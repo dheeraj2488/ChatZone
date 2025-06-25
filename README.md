@@ -1,5 +1,5 @@
 
-# 💬 ChatZone – Real-Time Chat Application
+#  ChatZone – Real-Time Chat Application
 
 A real-time chat application built using **React** on the frontend and **Node.js + Express + Socket.IO** on the backend. Users can send and receive messages instantly, view chat history, and enjoy a clean, responsive UI.
 
@@ -12,6 +12,7 @@ A real-time chat application built using **React** on the frontend and **Node.js
 - ✅ Basic user login (username only)
 - ✅ Responsive design (mobile + desktop)
 - ✅ User avatar icons next to messages
+- ✅ Users online status 
 
 
 
