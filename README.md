@@ -59,8 +59,7 @@ cd chatzone
 ```bash
 cd backend
 npm install
-npm install express cors socket.io
-node server.js or  npm start(own script for using nodemon)
+node server.js  or  npm start(created own script for using nodemon)
 ```
 
 Server will start on `http://localhost:7001`.
